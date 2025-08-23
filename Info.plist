@@ -24,6 +24,8 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<true/>
 	<key>NSSupportsSuddenTermination</key>
 	<string>YES</string>
 </dict>
